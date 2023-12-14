@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\bin\Debug\net8.0\AverageCalculator.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\bin\Debug\net8.0\AverageCalculator.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\bin\Debug\net8.0\AverageCalculator.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\bin\Debug\net8.0\AverageCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\bin\Debug\net8.0\AverageCalculator.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\refint\AverageCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\ref\AverageCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Average Calculator\AverageCalculator\AverageCalculator\obj\Debug\net8.0\AverageCalculator.sourcelink.json
