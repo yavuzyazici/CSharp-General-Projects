@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\bin\Debug\net8.0\DrawingTriangle.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\bin\Debug\net8.0\DrawingTriangle.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\bin\Debug\net8.0\DrawingTriangle.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\bin\Debug\net8.0\DrawingTriangle.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\bin\Debug\net8.0\DrawingTriangle.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\refint\DrawingTriangle.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\DrawingTriangle.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\DrawingTriangle\DrawingTriangle\obj\Debug\net8.0\ref\DrawingTriangle.dll
