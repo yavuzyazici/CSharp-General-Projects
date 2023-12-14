@@ -1,23 +1,28 @@
-﻿Start:
-Console.WriteLine("Write how many elements you will average");
-string input = Console.ReadLine();
-
-if (string.IsNullOrEmpty(input) || !IsDigit(input) || Convert.ToInt32(input) < 0)
+﻿bool validInput = false;
+while (!validInput)
 {
-    Console.WriteLine("Wrong input.");
-    Thread.Sleep(1000);
-    Console.Clear();
-    goto Start;
-}
+    Console.WriteLine("Write how many elements you will average");
+    string input = Console.ReadLine();
 
-LoadFibbonacci(input);
-void LoadFibbonacci(string input)
+    if (string.IsNullOrEmpty(input) || !IsDigit(input) || Convert.ToInt32(input) < 0)
+    {
+        Console.WriteLine("Wrong input. Please enter a valid non-negative number.");
+    }
+    else
+    {
+        validInput = true;
+        int[] array = LoadFibbonacci(input);
+        Console.WriteLine($"Average of these {array.Length} numbers: {Average(array)}");
+    }
+}
+int[] LoadFibbonacci(string input)
 {
 
     int[] array;
 
     //Identify the first 2 elements of the array
-    array = new int[Convert.ToInt32(input)];
+    array = new int[int.Parse(input)];
+
     switch (array.Length)
     {
         case 0:
@@ -26,17 +31,11 @@ void LoadFibbonacci(string input)
             Environment.Exit(0);
             break;
         case 1:
-            array[0] = 1;
-            Console.WriteLine($"Average of these {array.Length} numbers: {Average(array)}");
-            Console.ReadKey();
-            Environment.Exit(0);
+            array[0] = 0;
             break;
         case 2:
-            array[0] = 1;
+            array[0] = 0;
             array[1] = 1;
-            Console.WriteLine($"Average of these {array.Length} numbers: {Average(array)}");
-            Console.ReadKey();
-            Environment.Exit(0);
             break;
         default:
             array[0] = 0;
@@ -47,8 +46,7 @@ void LoadFibbonacci(string input)
     {
         array[i] = array[i - 1] + array[i - 2];
     }
-    Console.WriteLine($"Average of these {array.Length} numbers: {Average(array)}");
-
+    return array;
 }
 
 double Average(int[] array)
@@ -62,7 +60,6 @@ double Average(int[] array)
     return total / count;
 }
 
-//Checking is it Digit
 bool IsDigit(string input)
 {
     foreach (char c in input)
