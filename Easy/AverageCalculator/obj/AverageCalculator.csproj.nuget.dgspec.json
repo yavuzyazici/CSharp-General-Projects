@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\Average Calculator\\AverageCalculator\\AverageCalculator\\AverageCalculator.csproj": {}
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\AverageCalculator\\AverageCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\Average Calculator\\AverageCalculator\\AverageCalculator\\AverageCalculator.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\AverageCalculator\\AverageCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\Average Calculator\\AverageCalculator\\AverageCalculator\\AverageCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\AverageCalculator\\AverageCalculator.csproj",
         "projectName": "AverageCalculator",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\Average Calculator\\AverageCalculator\\AverageCalculator\\AverageCalculator.csproj",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\AverageCalculator\\AverageCalculator.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\Average Calculator\\AverageCalculator\\AverageCalculator\\obj\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Easy\\AverageCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
