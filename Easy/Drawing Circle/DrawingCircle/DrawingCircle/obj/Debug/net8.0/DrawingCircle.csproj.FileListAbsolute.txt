@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\bin\Debug\net8.0\DrawingCircle.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\bin\Debug\net8.0\DrawingCircle.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\bin\Debug\net8.0\DrawingCircle.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\bin\Debug\net8.0\DrawingCircle.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\bin\Debug\net8.0\DrawingCircle.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\refint\DrawingCircle.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\DrawingCircle.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Drawing Circle\DrawingCircle\DrawingCircle\obj\Debug\net8.0\ref\DrawingCircle.dll
