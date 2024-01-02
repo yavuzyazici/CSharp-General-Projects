@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\bin\Debug\net8.0\Algorithm Homework.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\bin\Debug\net8.0\Algorithm Homework.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\bin\Debug\net8.0\Algorithm Homework.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\bin\Debug\net8.0\Algorithm Homework.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\bin\Debug\net8.0\Algorithm Homework.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\refint\Algorithm Homework.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\Algorithm Homework.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Algorithm Homework\Algorithm Homework\Algorithm Homework\obj\Debug\net8.0\ref\Algorithm Homework.dll
