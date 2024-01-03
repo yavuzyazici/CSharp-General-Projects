@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\bin\Debug\net8.0\Sentence Reverser.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\bin\Debug\net8.0\Sentence Reverser.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\bin\Debug\net8.0\Sentence Reverser.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\bin\Debug\net8.0\Sentence Reverser.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\bin\Debug\net8.0\Sentence Reverser.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\refint\Sentence Reverser.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\Sentence Reverser.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Easy\Sentence Reverse\Sentence Reverser\Sentence Reverser\obj\Debug\net8.0\ref\Sentence Reverser.dll
