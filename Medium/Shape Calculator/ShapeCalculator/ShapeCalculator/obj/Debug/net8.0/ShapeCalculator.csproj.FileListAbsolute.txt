@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\bin\Debug\net8.0\ShapeCalculator.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\bin\Debug\net8.0\ShapeCalculator.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\bin\Debug\net8.0\ShapeCalculator.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\bin\Debug\net8.0\ShapeCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\bin\Debug\net8.0\ShapeCalculator.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\refint\ShapeCalculator.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ShapeCalculator.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Area Calculator\AreaCalculator\AreaCalculator\obj\Debug\net8.0\ref\ShapeCalculator.dll
