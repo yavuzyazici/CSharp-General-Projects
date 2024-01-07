@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\bin\Debug\net8.0\IntegerBinarySum.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\bin\Debug\net8.0\IntegerBinarySum.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\bin\Debug\net8.0\IntegerBinarySum.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\bin\Debug\net8.0\IntegerBinarySum.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\bin\Debug\net8.0\IntegerBinarySum.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\refint\IntegerBinarySum.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\IntegerBinarySum.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Integer Binary Sum\IntegerBinarySum\IntegerBinarySum\obj\Debug\net8.0\ref\IntegerBinarySum.dll
