@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\bin\Debug\net8.0\AbsoluteSquare.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\bin\Debug\net8.0\AbsoluteSquare.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\bin\Debug\net8.0\AbsoluteSquare.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\bin\Debug\net8.0\AbsoluteSquare.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\bin\Debug\net8.0\AbsoluteSquare.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\refint\AbsoluteSquare.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\AbsoluteSquare.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Absolute Square\AbsoluteSquare\AbsoluteSquare\obj\Debug\net8.0\ref\AbsoluteSquare.dll
