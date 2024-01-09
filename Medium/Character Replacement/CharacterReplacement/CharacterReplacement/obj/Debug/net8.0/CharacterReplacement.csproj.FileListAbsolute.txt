@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\bin\Debug\net8.0\CharacterReplacement.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\bin\Debug\net8.0\CharacterReplacement.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\bin\Debug\net8.0\CharacterReplacement.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\bin\Debug\net8.0\CharacterReplacement.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\bin\Debug\net8.0\CharacterReplacement.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\refint\CharacterReplacement.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\CharacterReplacement.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Character Replacement\CharacterReplacement\CharacterReplacement\obj\Debug\net8.0\ref\CharacterReplacement.dll
