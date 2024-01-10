@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\bin\Debug\net8.0\Silent Pair.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\bin\Debug\net8.0\Silent Pair.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\bin\Debug\net8.0\Silent Pair.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\bin\Debug\net8.0\Silent Pair.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\bin\Debug\net8.0\Silent Pair.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\refint\Silent Pair.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\Silent Pair.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentPair\Silent Pair\Silent Pair\obj\Debug\net8.0\ref\Silent Pair.dll

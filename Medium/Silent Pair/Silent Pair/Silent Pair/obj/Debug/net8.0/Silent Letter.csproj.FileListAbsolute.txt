@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.sourcelink.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\bin\Debug\net8.0\Silent Letter.exe
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\bin\Debug\net8.0\Silent Letter.deps.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\bin\Debug\net8.0\Silent Letter.runtimeconfig.json
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\bin\Debug\net8.0\Silent Letter.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\bin\Debug\net8.0\Silent Letter.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\refint\Silent Letter.dll
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.pdb
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\Silent Letter.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Medium\Silent Letter\SilentLetter\Silent Letter\Silent Letter\obj\Debug\net8.0\ref\Silent Letter.dll
