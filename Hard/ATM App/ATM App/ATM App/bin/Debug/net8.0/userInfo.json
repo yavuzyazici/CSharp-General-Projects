@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "suat",
+    "Password": "sifre",
+    "Money": 0.0,
+    "AccountNumber": "TR155"
+  },
+  {
+    "Username": "yavuz",
+    "Password": "admin",
+    "Money": 100.0,
+    "AccountNumber": "TR112"
+  },
+  {
+    "Username": "berk",
+    "Password": "bekopro08",
+    "Money": 0.0,
+    "AccountNumber": "TR911"
+  }
+]
