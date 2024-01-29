@@ -42,8 +42,12 @@ namespace ATM_App
                         helper.Clear();
                         break;
                     case "3":
+                        atm.BalanceInquiry(user);
+                        helper.Clear();
                         break;
                     case "4":
+                        atm.MakePayment(user);
+                        helper.Clear();
                         break;
                     case "5":
                         TrueFalse = false;

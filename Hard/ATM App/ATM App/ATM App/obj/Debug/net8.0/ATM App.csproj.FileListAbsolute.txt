@@ -16,3 +16,21 @@ C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Hard\ATM App\ATM App\ATM
 C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.csproj.AssemblyReference.cache
 C:\Users\ADMIN\Documents\GitHub\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.csproj.CopyComplete
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\ATM App.exe
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\ATM App.deps.json
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\ATM App.runtimeconfig.json
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\ATM App.dll
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\ATM App.pdb
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.csproj.AssemblyReference.cache
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.AssemblyInfoInputs.cache
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.AssemblyInfo.cs
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.sourcelink.json
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.csproj.CopyComplete
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.dll
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\refint\ATM App.dll
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.pdb
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ATM App.genruntimeconfig.cache
+E:\Github\CSharp-General-Projects\Hard\ATM App\ATM App\ATM App\obj\Debug\net8.0\ref\ATM App.dll

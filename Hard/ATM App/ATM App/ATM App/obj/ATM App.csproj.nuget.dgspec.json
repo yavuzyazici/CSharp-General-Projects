@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj": {}
+    "E:\\Github\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj": {
+    "E:\\Github\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj",
+        "projectUniqueName": "E:\\Github\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj",
         "projectName": "ATM App",
-        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\obj\\",
+        "projectPath": "E:\\Github\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\ATM App.csproj",
+        "packagesPath": "C:\\Users\\yavuz\\.nuget\\packages\\",
+        "outputPath": "E:\\Github\\CSharp-General-Projects\\Hard\\ATM App\\ATM App\\ATM App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yavuz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
