@@ -1,0 +1,91 @@
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Barcode Project.exe
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Barcode Project.deps.json
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Barcode Project.runtimeconfig.json
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Barcode Project.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Barcode Project.pdb
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\IronBarcodeDetection.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\IronBarCode.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\BitMiracle.LibTiff.NET.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\IronSoftware.Abstractions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\IronSoftware.Logger.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\IronSoftware.Shared.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\IronSoftware.Drawing.Common.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.ML.OnnxRuntime.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\SixLabors.Fonts.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\SixLabors.ImageSharp.Drawing.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\linux-x64\native\IronBarcodeInterop.so
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\osx-arm64\native\IronBarcodeInterop.dylib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\osx-x64\native\IronBarcodeInterop.dylib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x64\native\IronBarcodeInterop.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x86\native\IronBarcodeInterop.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\android\native\onnxruntime.aar
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\Info.plist
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\coreml_provider_factory.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\cpu_provider_factory.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_c_api.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\Info.plist
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64\onnxruntime.framework\onnxruntime
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\coreml_provider_factory.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\cpu_provider_factory.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_c_api.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_api.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Headers\onnxruntime_cxx_inline.h
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\Info.plist
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\ios\native\onnxruntime.xcframework\ios-arm64_x86_64-simulator\onnxruntime.framework\onnxruntime
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\linux-arm64\native\libonnxruntime.so
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\linux-x64\native\libonnxruntime.so
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\osx.10.14-arm64\native\libonnxruntime.dylib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\osx.10.14-x64\native\libonnxruntime.dylib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm\native\onnxruntime.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm\native\onnxruntime.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm\native\onnxruntime_providers_shared.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm\native\onnxruntime_providers_shared.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime_providers_shared.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-arm64\native\onnxruntime_providers_shared.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime_providers_shared.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x64\native\onnxruntime_providers_shared.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime_providers_shared.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win-x86\native\onnxruntime_providers_shared.lib
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.csproj.AssemblyReference.cache
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.AssemblyInfoInputs.cache
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.AssemblyInfo.cs
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.sourcelink.json
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.csproj.CopyComplete
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\refint\Barcode Project.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.pdb
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\Barcode Project.genruntimeconfig.cache
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\obj\Debug\net8.0\ref\Barcode Project.dll
+E:\Github\CSharp-General-Projects\Hard\Barcode Project\bin\Debug\net8.0\zxing.dll
